@@ -32,12 +32,12 @@ const DailyOffer = () => {
     {
       title: 'Стулья',
       discount: '30% скидка',
-      image: 'https://images.unsplash.com/photo-1503602642458-232111445657?w=400&q=80'
+      image: '/1.jfif'
     },
     {
       title: 'Столы',
       discount: '50% скидка',
-      image: 'https://images.unsplash.com/photo-1530018607912-eff2daa1bac4?w=400&q=80'
+      image: '/2.jfif'
     }
   ];
 

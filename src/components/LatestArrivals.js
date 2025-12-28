@@ -11,7 +11,7 @@ const LatestArrivals = ({ addToCart }) => {
       name: 'Кресло Comfort',
       price: '8 545 ₽',
       badge: 'Открытое место',
-      image: 'https://images.unsplash.com/photo-1592078615290-033ee584e267?w=400&q=80',
+      image: '/3.jfif',
       discount: null
     },
     {
@@ -19,7 +19,7 @@ const LatestArrivals = ({ addToCart }) => {
       name: 'Серое кресло',
       price: '9 345 ₽',
       badge: null,
-      image: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&q=80',
+      image: '/4.jfif',
       discount: '-5%'
     },
     {
@@ -27,7 +27,7 @@ const LatestArrivals = ({ addToCart }) => {
       name: 'Кожаное кресло',
       price: '9 545 ₽',
       badge: null,
-      image: 'https://images.unsplash.com/photo-1506439773649-6e0eb8cfb237?w=400&q=80',
+      image: '/5.jfif',
       discount: null
     },
     {
@@ -35,7 +35,7 @@ const LatestArrivals = ({ addToCart }) => {
       name: 'Кресло Armchair',
       price: '8 144 ₽',
       badge: null,
-      image: 'https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=400&q=80',
+      image: '/6.jfif',
       discount: '-3%'
     },
     {
@@ -43,7 +43,7 @@ const LatestArrivals = ({ addToCart }) => {
       name: 'Желтый диван',
       price: '9 146 ₽',
       badge: 'Открытое место',
-      image: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400&q=80',
+      image: '/7.jfif',
       discount: '-8%'
     },
     {
@@ -51,7 +51,7 @@ const LatestArrivals = ({ addToCart }) => {
       name: 'Гардероб',
       price: '8 854 ₽',
       badge: null,
-      image: 'https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=400&q=80',
+      image: '/8.jfif',
       discount: '-6%'
     }
   ];
